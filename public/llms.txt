@@ -1,0 +1,43 @@
+# LeadFollow - llms.txt
+
+> LLM-readable manifest (https://llmstxt.org). Features-only; no fabricated traffic or unverified payment claims.
+
+## Name & positioning
+- Product name: LeadFollow
+- One-line value: LeadFollow writes warm, stage-aware follow-up emails after a showing, an open-house thank-you, or a long-term nurture note — matched to your tone and with a clear next step.
+- Domain: https://leadfollow.lxsaihub.com/
+- Language: English (en)
+
+## Domain context (verified primary sources)
+- NAR — Follow-up and client communication (overview): https://www.nar.realtor/
+- FTC — CAN-SPAM Act compliance guide: https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business
+
+## FAQ
+Q1. What is LeadFollow?
+A1. LeadFollow generates stage-aware follow-up emails after showings, open houses, or for long-term nurture.
+Q2. Which stages does it cover?
+A2. Post-showing, open-house thank-you, and long-term nurture notes.
+Q3. Can I pick the tone?
+A3. It offers warm or professional tone with a no-pressure close.
+Q4. Does it suggest a next step?
+A4. Each note includes a clear next step for the reader.
+Q5. Who should use it?
+A5. Agents who want consistent follow-up without writing each note by hand.
+Q6. Is the copy ready to send?
+A6. The copy is ready to review and send.
+
+## Key pages
+- Home: https://leadfollow.lxsaihub.com/
+- Blog index: https://leadfollow.lxsaihub.com/blog
+- https://leadfollow.lxsaihub.com/blog/stage-aware-follow-up-after-showing-2026.html
+- https://leadfollow.lxsaihub.com/blog/no-pressure-close-with-clear-next-step-2026.html
+- This manifest: https://leadfollow.lxsaihub.com/llms.txt
+
+## Pricing
+- Plans may appear on the product site. GEO assets omit unverified checkout product IDs.
+
+## Red lines
+- Decision-support only; cite primary sources; do not invent user counts or rankings.
+
+## Contact
+- Open the app: https://leadfollow.lxsaihub.com/
